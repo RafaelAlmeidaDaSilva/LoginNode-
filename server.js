@@ -39,4 +39,4 @@ requireDir('./src/models');
 // const Users = mongoose.model('Users');
 
 app.use('/api', require('./src/routes'));
-app.listen(3001);
+app.listen(process.env.PORT || 3001);
