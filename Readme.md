@@ -5,6 +5,7 @@
      npm install mongoose-paginate --save
      npm install cors --save
      sudo npm install -g create-react-app --save
+     yarn add axios
 
 
 ## Dependencias de desenvolvimento 
